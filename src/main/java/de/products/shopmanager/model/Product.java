@@ -3,6 +3,9 @@ package de.products.shopmanager.model; // wie bei DJango: in Model werden die Da
 import javax.persistence.*;
 import java.io.Serializable; // helps transform this Java Class into different types of streams e.g. JSON
 
+// !!! DATABASE ATTRIBUTES CONNECTED TO MySQL Server !!!
+// MODEL
+
 @Entity //makes sure this Class is mapped to Database we configured
 public class Product implements Serializable {
     @Id // set primary key
