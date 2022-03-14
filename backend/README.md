@@ -1,4 +1,4 @@
-# Shop Manager
-Custom Shop Manager made with Angular and Spring Boot
+# Shop Manager BACKEND
+Custom Shop Manager made with Angular Frontend and Spring Boot Backend
 
-[images and information will follow]
+![Backend API Design](/APIDesign_Backend.png)
